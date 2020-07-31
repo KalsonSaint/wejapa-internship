@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wejapa-internship/static/css/main.bbfedd2d.chunk.css",
+    "main.js": "/wejapa-internship/static/js/main.a46bf084.chunk.js",
+    "main.js.map": "/wejapa-internship/static/js/main.a46bf084.chunk.js.map",
+    "runtime-main.js": "/wejapa-internship/static/js/runtime-main.ec660b76.js",
+    "runtime-main.js.map": "/wejapa-internship/static/js/runtime-main.ec660b76.js.map",
+    "static/js/2.02ebb880.chunk.js": "/wejapa-internship/static/js/2.02ebb880.chunk.js",
+    "static/js/2.02ebb880.chunk.js.map": "/wejapa-internship/static/js/2.02ebb880.chunk.js.map",
+    "index.html": "/wejapa-internship/index.html",
+    "precache-manifest.61f4e3f0d0297cf992304f8d81136450.js": "/wejapa-internship/precache-manifest.61f4e3f0d0297cf992304f8d81136450.js",
+    "service-worker.js": "/wejapa-internship/service-worker.js",
+    "static/css/main.bbfedd2d.chunk.css.map": "/wejapa-internship/static/css/main.bbfedd2d.chunk.css.map",
+    "static/js/2.02ebb880.chunk.js.LICENSE.txt": "/wejapa-internship/static/js/2.02ebb880.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec660b76.js",
+    "static/js/2.02ebb880.chunk.js",
+    "static/css/main.bbfedd2d.chunk.css",
+    "static/js/main.a46bf084.chunk.js"
+  ]
+}
